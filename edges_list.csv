@@ -1,0 +1,17 @@
+Source,Destination,Weight
+A,B,3.5
+A,C,1
+A,D,2
+B,E,3
+C,D,4
+C,F,5
+D,E,6
+E,G,4
+E,H,4
+F,G,2
+G,H,3
+G,I,2
+H,J,2
+I,J,1
+J,K,1
+J,L,1
